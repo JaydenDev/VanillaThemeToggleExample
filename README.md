@@ -4,9 +4,9 @@
 # This template is free to use!
 This project is under the MIT license, as long as you follow the license your good to go. Credit is entirely optional! Hey, I don't care if you remove the credits from the top of the file!
 # Big thanks to the following for helping with this project!
-[Chiroyce](https://scratch.mit.edu/users/Chiroyce/)
-[ZZC12345](https://scratch.mit.edu/users/ZZC12345/)
-[mybearworld](https://scratch.mit.edu/users/mybearworld/)
-[god286](https://scratch.mit.edu/users/god286/)
-[Steve0Greatness](https://scratch.mit.edu/users/Steve0Greatness/)
+[Chiroyce](https://scratch.mit.edu/users/Chiroyce/) \
+[ZZC12345](https://scratch.mit.edu/users/ZZC12345/) \
+[mybearworld](https://scratch.mit.edu/users/mybearworld/) \
+[god286](https://scratch.mit.edu/users/god286/) \
+[Steve0Greatness](https://scratch.mit.edu/users/Steve0Greatness/) \
 [lolecksdeehaha](https://scratch.mit.edu/users/lolecksdeehaha/)
