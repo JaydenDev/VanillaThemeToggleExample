@@ -1,0 +1,56 @@
+/* Simple Light/Dark mode toggle example
+by JaydenDev MIT License 2022 */
+
+body {
+  font-family: system-ui;
+}
+
+.light {
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+.dark {
+  background-color: #222;
+  color: #fff;
+}
+
+.dark * {
+  color: #fff;
+}
+
+.light * {
+  color: #333;
+}
+
+.dark button {
+  background-color: #333;
+  color: #fff;
+}
+
+.light button {
+  background-color: #fff;
+  color: #333;
+}
+
+button {
+  padding: 4pt 4pt 4pt 4pt;
+  border-radius: 8pt;
+  border: none;
+}
+
+.dark input {
+  background-color: #333;
+  color: #fff;
+}
+
+.light input {
+  background-color: #fff;
+  color: #333;
+}
+
+input {
+  padding: 4pt 4pt 4pt 4pt;
+  border-radius: 8pt;
+  border: none;
+}
